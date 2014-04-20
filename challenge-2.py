@@ -1,0 +1,3 @@
+q = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.".replace('a','c').replace('b','d').replace('c','e').replace('d','f').replace('e','g').replace('f','h').replace('g','i').replace('h','j').replace('i','k').replace('j','l').replace('k','m').replace('l','n').replace('m','o').replace('n','p').replace('o','q').replace('p','r').replace('q','s').replace('r','t').replace('s','u').replace('t','v').replace('u','w').replace('v','x').replace('w','y').replace('x','z').replace('y','a').replace('z','b')
+
+print q
