@@ -1,0 +1,17 @@
+[
+    {
+        "adjective": "a", 
+        "noun1": "b", 
+        "noun2": "c"
+    }, 
+    {
+        "adjective": "d", 
+        "noun1": "e", 
+        "noun2": "f"
+    }, 
+    {
+        "adjective": "red", 
+        "noun1": "blue", 
+        "noun2": "green"
+    }
+]
