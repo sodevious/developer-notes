@@ -14,3 +14,8 @@ function foo() {
 };
 
 console.log(moo); // This will fail
+
+
+// Scope chain is defined lexically
+// in the order that it's written in the page instead of how functions are called
+// Functions look in their scope then outer scope
